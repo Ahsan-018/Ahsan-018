@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ahsan
 
-**CS Student @IST • AI & Web Dev Enthusiast • Digital Marketer**
+**CS Student • AI & Web Dev Enthusiast • Digital Marketer**
 
 A passionate Computer Science student studying Mobile App Development, building web applications, exploring AI Agents, and managing digital marketing & e-commerce operations for **Friends Electro Mart**.
 
