@@ -50,12 +50,8 @@ A passionate Computer Science student building practical web applications, explo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-018&show_icons=true&theme=tokyonight&count_private=true" alt="Ahsan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-018&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsan-018&theme=tokyonight" alt="GitHub Activity Graph" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-018&show_icons=true&theme=dark&cache_seconds=1800" alt="Ahsan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-018&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 <!--
