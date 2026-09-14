@@ -43,9 +43,8 @@ A passionate Computer Science student studying Mobile App Development, building 
 
 **Design, Editing & Digital Marketing Tools**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=canva,figma" />
-  </a>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" height="40" />
 </p>
 
 **Developer Tools & Environment**
