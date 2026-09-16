@@ -83,10 +83,6 @@ A passionate Computer Science student studying Web App Development, building web
 
 ### 📬 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Ahsan-018" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
