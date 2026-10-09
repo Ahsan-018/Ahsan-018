@@ -17,10 +17,10 @@ A passionate Computer Science student studying Web App Development, building web
 ### 📈 Language Proficiency
 
 ![Python](https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-70%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-55%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-70%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-80%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly NASM](https://img.shields.io/badge/Assembly%20(NASM)-50%25-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
 ---
